@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1126505505269781798}
   - component: {fileID: 8179483205303244278}
   m_Layer: 0
-  m_Name: Circle
+  m_Name: Base
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27,7 +27,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.25, y: 0.25, z: 1}
+  m_LocalScale: {x: 0.022358617, y: 0.022358617, z: 0.08943447}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8877229074771934317}
@@ -73,7 +73,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f27742eb9b5b3984fb352c56f31d9823, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -114,7 +114,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.02, y: -2.61, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2.5672712, y: 2.5672712, z: 1.2836356}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1126505505269781798}
