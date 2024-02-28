@@ -1,15 +1,16 @@
-# Project03-JuicyBreakout
-
 # Project Name
-Context and date
+Project 03a
+02/27/2024
 
 Description
+Juicy breakout game with screen shake, music, sound effects, backgrounds, and emoji themed. 
 
 ## Implementation
-Which features you included
+Screen shake, music, sound effects, backgrounds, and emoji themed. 
 
 ## References
 
 ## Future Development
 
 ## Created by
+Nate Reininga
